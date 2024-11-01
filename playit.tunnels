@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "figure-identifying.gl.joinmc.link",
@@ -52,7 +52,7 @@
       "tunnel_type": "minecraft-java"
     },
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "built-due.gl.at.ply.gg",
